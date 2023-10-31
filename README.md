@@ -1,4 +1,4 @@
-<h1 align="center">Sup, I'm Xseedy</h1>
+<h1 align="center">Sup 👋, I'm Xseedy</h1>
 <h3 align="center">This Just My Random Repository</h3>
 
 <h3 align="left">Connect with me:</h3>
